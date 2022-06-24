@@ -9,7 +9,7 @@ Endeto - online datová akademie - SQL projekt
   5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
 
 Výstup:
-TDO_SQL_Projekt_04_2022.xlsx = Vysledky a data, na kterých stojí závěry jsou zpracované v xls, pro každou otázku jeden list 
+TDO_SQL_Projekt_04_2022.xlsx = Výsledky a data, na kterých závěry stojí, jsou zpracované v xls, pro každou otázku je jeden list 
 
 Extra export:
 t_tomas_dolezil_project_SQL_primary_final = data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky
