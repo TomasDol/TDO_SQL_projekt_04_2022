@@ -13,6 +13,7 @@ TDO_SQL_Projekt_04_2022.xlsx = Výsledky a data, na kterých závěry stojí, js
 
 Extra export:
 t_tomas_dolezil_project_SQL_primary_final = data mezd a cen potravin za Českou republiku sjednocených na totožné porovnatelné období – společné roky
++
 t_tomas_dolezil_project_SQL_secondary_final = dodatečná data o dalších evropských státech
 
 Zdroje dat:
