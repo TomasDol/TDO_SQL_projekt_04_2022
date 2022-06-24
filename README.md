@@ -16,13 +16,4 @@ t_tomas_dolezil_project_SQL_primary_final = data mezd a cen potravin za Českou 
 t_tomas_dolezil_project_SQL_secondary_final = dodatečná data o dalších evropských státech
 
 Zdroje dat:
-czechia_payroll 
-czechia_payroll_calculation
-czechia_payroll_industry_branch
-czechia_payroll_unit
-czechia_payroll_value_type
-czechia_price
-czechia_price_category
-czechia_region
-countries
-economies
+czechia_payroll, czechia_payroll_calculation, czechia_payroll_industry_branch, czechia_payroll_unit, czechia_payroll_value_type, czechia_price, czechia_price_category, czechia_region, countries, economies.
